@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page-proj",
+  "version": "1.0.0",
+  "description": "A simple restaurant home page project to practice utilzing npm and webpack to create modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An7onioRS/restaurant-page-proj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/An7onioRS/restaurant-page-proj/issues"
+  },
+  "homepage": "https://github.com/An7onioRS/restaurant-page-proj#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
