@@ -1,1 +1,1 @@
-alert("Hello, welcome to my restaurant page!");
+(()=>{let e=document.querySelector("#menu-bar"),s=document.querySelector(".navbar");e.onclick=()=>{e.classList.toggle("fa-times"),s.classList.toggle("active")},window.onscroll=()=>{e.classList.remove("fa-times"),s.classList.remove("active")}})();
