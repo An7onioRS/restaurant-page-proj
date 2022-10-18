@@ -537,3 +537,26 @@ popular .box-container .box .stars i {
         width: 100%;
     }
 } 
+
+.footer {
+    background: #000;
+    text-align: center;
+}
+
+.footer .share {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.footer .credit {
+    padding: 2.5rem 1rem;
+    color: #fff; 
+    font-weight: normal;
+    font-size: 2rem; 
+}
+
+.footer .credit span {
+    color: var(--red);
+}
